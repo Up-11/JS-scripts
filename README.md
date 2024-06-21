@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-ScrollToTop(Important things)
-all stuff for scrolltotop button
+#  ScrollToTop(Important things)
+## all stuff for scrolltotop button
 
 --CSS--
 
@@ -52,8 +52,8 @@ all stuff for scrolltotop button
             </button>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Antmation(Important things)
-all stuff for animations
+#Antmation(Important things)
+##all stuff for animations
 
 --CSS--
 

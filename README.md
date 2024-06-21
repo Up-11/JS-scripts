@@ -5,7 +5,7 @@ all stuff for scrolltotop button
 
 --CSS--
 
-#scroll-to-top {
+	#scroll-to-top {
 
 	position: fixed;
 	bottom: 20px;
@@ -22,16 +22,16 @@ all stuff for scrolltotop button
 	z-index: 1000;
 	opacity: 0;
 	transition: opacity 0.3s ease-in-out;
-}
-#scroll-to-top:hover {
+	}
+	#scroll-to-top:hover {
 
 	transform: scale(1.05);
-}
-#scroll-to-top.show {
+	}
+	#scroll-to-top.show {
 
 	opacity: 1;
 	pointer-events: auto;
-}
+	}
 
 --HTML--
     
@@ -57,18 +57,18 @@ all stuff for animations
 
 --CSS--
 
-.element-animation {
+	.element-animation {
 
 	opacity: 0;
 	transform: translateY(20px);
-}
+	}
 
-.element-animation.element-show {
+	.element-animation.element-show {
 
 	opacity: 1;
 	transition: all 1.5s ease-in-out;
 	transform: translateY(0%);
-}
+	}
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

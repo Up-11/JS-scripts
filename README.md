@@ -47,5 +47,21 @@ ScrollToTop(Important things)
                     />
                 </svg>
             </button>
-        
+
+Antmation(Important things)
+
+--CSS--
+
+.element-animation {
+
+	opacity: 0;
+	transform: translateY(20px);
+}
+
+.element-animation.element-show {
+
+	opacity: 1;
+	transition: all 1.5s ease-in-out;
+	transform: translateY(0%);
+}
 

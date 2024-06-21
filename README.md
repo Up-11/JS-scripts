@@ -52,8 +52,8 @@
             </button>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Antmation(Important things)
-##all stuff for animations
+# Antmation(Important things)
+## all stuff for animations
 
 --CSS--
 

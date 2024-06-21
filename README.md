@@ -1,9 +1,9 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #  ScrollToTop(Important things)
-## all stuff for scrolltotop button
+### all stuff for scrolltotop button
 
---CSS--
+# --CSS--
 
 	#scroll-to-top {
 
@@ -33,7 +33,7 @@
 	pointer-events: auto;
 	}
 
---HTML--
+# --HTML--
     
     <button id="scroll-to-top">
                 <svg
@@ -53,7 +53,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Antmation(Important things)
-## all stuff for animations
+### all stuff for animations
 
 --CSS--
 
